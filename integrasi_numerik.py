@@ -34,7 +34,7 @@ def main():
     while True:
         print("\nIntegrasi Simpson 1/3")
         print("\nSelamat datang! Silahkan pilih penyelesaian yang anda inginkan pada menu dibawah ini:")
-        print("1. Pengihtungan nilai integral fungsi")
+        print("1. Penghitungan nilai integral fungsi")
         print("2. Keluar")
 
         pilihan = int(input("Masukkan pilihan Anda (1-2): "))
