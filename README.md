@@ -8,6 +8,6 @@ Implementasi Integrasi Numerik untuk Menghitung Estimasi nilai Pi
 Repository ini dibuat untuk memenuhi penugasan Mata Kuliah Metode Numerik
 
 ## Tentang Program:
-Aplikasi untuk menyelesaikan problem  penghitungan nilai integral fungsi secara numerik dengan menggunakan metode Integrasi Simpson 1/3 (Metode 3).
+Aplikasi untuk menyelesaikan problem  penghitungan nilai integral fungsi secara numerik dengan menggunakan metode Integrasi Reimann (Metode 1).
 
 Aplikasi ini dibuat menggunakan bahasa pemrograman Python.
